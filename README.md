@@ -9,7 +9,7 @@ git submodule add --force https://github.com/vn-os/3rd-py-about.git pyabout
 ```
 
 ```python
-from pyabout AboutDlg
+from pyabout import AboutDlg
 
 [...]
 
